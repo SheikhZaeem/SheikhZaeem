@@ -1,5 +1,5 @@
 ### Hi there, I'm Zaeem Masood Sheikh 👋
-I'm a first-year undergraduate Computer Science student at Bilkent University. I am a passionate computer science enthusiast who loves to explore different areas of the field.
+I'm an undergraduate Computer Science student at Bilkent University. I am a passionate computer science enthusiast who loves to explore different areas of the field.
 
 ### 📲 Contact
 
