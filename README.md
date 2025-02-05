@@ -1,9 +1,9 @@
 ### Hi there, I'm Zaeem Masood Sheikh 👋
-I'm an undergraduate Computer Science student at Bilkent University. I am a passionate computer science enthusiast who loves to explore different areas of the field.
+I am second year undergraduate Computer Science student at Bilkent University, Ankara, Turkey. I am a passionate computer science enthusiast who loves to explore different areas of the field.
 
 ### 📲 Contact
 
-Email: masood.sheikh@ug.bilkent.edu.tr
+Email: zaeemmasood5@gmail.com masood.sheikh@ug.bilkent.edu.tr
 
 
 ###  Open to collaboration
