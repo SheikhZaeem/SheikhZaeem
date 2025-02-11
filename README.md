@@ -13,7 +13,6 @@ If you have any questions or opportunities, feel free to contact me.
 
 [![Zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhZaeem)](https://github.com/SheikhZaeem/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhZaeem&langs_count=5)
 <!--
 **SheikhZaeem/SheikhZaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
