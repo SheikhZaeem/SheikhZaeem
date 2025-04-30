@@ -11,8 +11,6 @@ If you have any questions or opportunities, feel free to contact me.
 
 ![](https://komarev.com/ghpvc/?username=SheikhZaeem)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhZaeem&layout=donut)](https://github.com/SheikhZaeem/github-readme-stats)
-
 [![Zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhZaeem)](https://github.com/SheikhZaeem/github-readme-stats)
 
 <!--
